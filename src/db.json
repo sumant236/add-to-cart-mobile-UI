@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Regular fit slogan",
+      "imageSrc": "/_next/static/media/RegularFitSlogan.f896e463.png",
+      "price": 1190
+    },
+    {
+      "id": 2,
+      "productName": "Regular fit polo",
+      "imageSrc": "/_next/static/media/RegularFitPolo.0ebbfac9.png",
+      "price": 1100
+    },
+    {
+      "id": 3,
+      "productName": "Regular fit color block",
+      "imageSrc": "/_next/static/media/RegularFitColorBlock.39bc7f1d.png",
+      "price": 1690
+    },
+    {
+      "id": 4,
+      "productName": "Regular fit v-neck",
+      "imageSrc": "/_next/static/media/RegularFitVNeck.813030d6.png",
+      "price": 1290
+    },
+    {
+      "id": 5,
+      "imageSrc": "/_next/static/media/RegularFitPink.92748a7f.png"
+    },
+    {
+      "id": 6,
+      "imageSrc": "/_next/static/media/RegularFitBlackSlogan.c93a0313.png"
+    }
+  ]
+}
