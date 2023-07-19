@@ -16,10 +16,10 @@ List out the key features of your application.
 Detailed instructions on how to install, configure, and get the project running.
 
 ```bash
-npm install https://github.com/sumant236/json-reader-form.git
+npm install https://github.com/sumant236/add-to-cart-mobile-UI.git
 # or
-yarn install https://github.com/sumant236/json-reader-form.git
-cd json-reader-form.git
+yarn install https://github.com/sumant236/add-to-cart-mobile-UI.git
+cd add-to-cart-mobile-UI
 npm run dev
 # or
 yarn dev
